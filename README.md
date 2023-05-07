@@ -30,7 +30,7 @@ cd Chatbot-in-Python-NLTK
 pip3 install -r requirements.txt
 ```
 
-1. Run the script
+3. Run the script
 ```sh
 python3 chatbot.py
 ```
